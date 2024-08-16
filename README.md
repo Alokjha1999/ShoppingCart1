@@ -27,8 +27,7 @@ Welcome to the E-Commerce Shopping Cart Application! This project is a web-based
 - **Responsive Design**:
   - The layout adjusts seamlessly for different screen sizes, ensuring a consistent user experience.
 
-## Installation
+## Live
 
-1. **Clone the Repository**:
-   ```bash
+- https://shopping-cart1-6fdjn82ua-alokjha1999s-projects.vercel.app/
    
